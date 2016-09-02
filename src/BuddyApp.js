@@ -24,7 +24,7 @@ class BuddyApp extends React.Component {
           )}
 
         </div> */}
-          <h1 className='f3 f1-ns lh-title mb2 fw600'>
+          <h1 className='f3 f1-ns lh-title mb2 fw6'>
             {app.title} {app.isFree && <span className='f6 dib ml2 ttu tracked'>free</span>}
           </h1>
         </div>

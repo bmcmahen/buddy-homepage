@@ -6,8 +6,7 @@ export default {
   "isFree": true,
   "icon": require('./iTunesArtwork@1x.png'),
   "platforms": {
-    "ios": "link",
-    "android": "link"
+    "ios": "https://itunes.apple.com/ca/app/roast-buddy-your-coffee-roasting/id1136305919?mt=8"
   },
   "description": "Roasting your own coffee is easy, cheap, and delicious. If you're wanting to learn how to roast your own coffee, or if you're an experienced roaster, Roast Buddy is a worthy companion.",
   "parts": [

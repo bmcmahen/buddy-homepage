@@ -5,8 +5,7 @@ export default {
   "color": "hot-pink",
   "isFree": true,
   "platforms": {
-    "ios": "link",
-    "android": "link"
+    "ios": "https://itunes.apple.com/ca/app/random-buddy-randomize-your/id1135088308?mt=8"
   },
   "description": "Tired of your routine? Try mixing things up. Randomize exercises, chores or household tasks, or pick a random order of people to play a game. Basically, randomize anything to your hearts content.",
   "parts": [

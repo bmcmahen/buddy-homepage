@@ -5,8 +5,8 @@ export default {
   "color": "yellow",
   "isFree": true,
   "platforms": {
-    "ios": "link",
-    "android": "link"
+    "ios": "https://itunes.apple.com/ca/app/panzeo-payback/id1117165976?mt=8",
+    "android": "https://play.google.com/store/apps/details?id=com.squareshareapp&hl=en"
   },
   "description": "Pay Buddy makes it easy to split and manage expenses shared with friends and family. Are you still saving bills, taking them home, and adding them to a spread sheet, and doing the math yourself? Pay Buddy allows you to track these expenses immediately, enabling you to enter them on your phone as soon as you've made them.",
   "parts": [

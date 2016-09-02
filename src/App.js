@@ -35,7 +35,7 @@ class App extends Component {
         </header>
         <section className='cf ph3 bt w-100 b--near-white ph5-ns black-70'>
           <div className='measure-wide'>
-            <h1 className='f3 f1-ns lh-title mt6 fw-600'>
+            <h1 className='f3 f1-ns lh-title mt6 fw6'>
               The perfect companion apps for creative hobbyists.
             </h1>
             <div className='pb5'>
